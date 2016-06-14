@@ -802,7 +802,7 @@ if [ "$apache_install" = "y" ]; then
 fi
 
 if [ "$isnginx" = "ok" ] && [ "$ismysql" = "ok" ] && [ "$isphp" = "ok" ]; then
-echo "Install lnmp 1.0 completed! enjoy it."
+echo "Install unmp 1.0 completed! enjoy it. <wentmac> zwt007@gmail.com"
 echo ""
 echo "default mysql root password:$mysql_root_pwd"
 echo "phpinfo : http://yourIP/phpinfo.php"
