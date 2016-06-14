@@ -823,7 +823,7 @@ echo "========================================================================="
     fi
 netstat -ntl
 else
-echo "Sorry,Failed to install LNMP!"
+echo "Sorry,Failed to install UNMP!"
 fi
 }
 
